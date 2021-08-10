@@ -1,3 +1,6 @@
+Documentação do Postaman : https://documenter.getpostman.com/view/15825758/Tzz4SKfT
+Link do Heroku : https://labenu-ecommerce-back.herokuapp.com 
+
 ## Exercício da Semana
 
 Seu nome anda circulando pelas redes e fóruns de desenvolvimento web! Seus projetos de front-end deram o que falar, e agora estão sabendo que você está também aprontando no back-end.
